@@ -1,0 +1,6 @@
+[submodule "pregunta2"]
+	path = pregunta2
+	url = ./pregunta2/
+[submodule "pregunta1"]
+	path = pregunta1
+	url = ./pregunta1/
